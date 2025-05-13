@@ -15,15 +15,12 @@ This code creates a bone fracture detection system with these features:
 8. Support for DICOM medical image format
 9. Image enhancement tools
 10. Comprehensive reporting
+
+ 
 To use this:
-
 1. Install required packages:
-
 pip install tensorflow opencv-python pillow
  
-
-
 2. Run the script:
-
 python bone_fracture_detector.py
  
